@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="MSoqiy Apps — Aqlli o‘yin — bilimli avlod" width="100%">
+<img src="assets/banner.png" alt="Mamasaidov M.A. — MSoqiy" width="100%">
 
 ### 👋 Assalomu alaykum! Men — Mamasaidov M.A.
 
